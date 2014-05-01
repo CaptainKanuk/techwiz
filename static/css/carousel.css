@@ -51,6 +51,7 @@ body {
   background-color: #777;
 }
 .carousel-inner > .item > img {
+  opacity:0.4;
   position: absolute;
   top: 0;
   left: 0;
